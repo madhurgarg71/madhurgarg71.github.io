@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/madhurgarg71/madhurgarg71.github.io/issues"
   },
-  "homepage": "https://github.com/madhurgarg71/madhurgarg71.github.io#readme"
+  "homepage": "https://github.com/madhurgarg71/madhurgarg71.github.io#readme",
+  "dependencies": {
+    "webpack": "^2.6.1"
+  }
 }
