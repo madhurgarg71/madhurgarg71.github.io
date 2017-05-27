@@ -1,0 +1,19 @@
+{
+  "name": "madhurgarg71.github.io",
+  "version": "1.0.0",
+  "description": "Madhur garg's portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhurgarg71/madhurgarg71.github.io.git"
+  },
+  "author": "Madhur Garg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhurgarg71/madhurgarg71.github.io/issues"
+  },
+  "homepage": "https://github.com/madhurgarg71/madhurgarg71.github.io#readme"
+}
